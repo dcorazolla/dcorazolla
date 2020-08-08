@@ -1,4 +1,8 @@
-### Hello 👋
+### Olá 👋
+
+Bem vindo(a)!
+
+Meu nome é Diogo, nascido em abril de 1983, programador desde 12 anos de idade, quando tivemos o primeiro computador em casa (um ótimo 386SX-33 tunado com 4MB de memória RAM e um incrível HD de 80MB) e ao entrar em contato com aquela máquina que rodava o famoso DOS 6, com Windows 3.11, fiquei apaixonado e entrei nesse mundo ao descobrir o CLIPPER 5.2.
 
 
 <!--
