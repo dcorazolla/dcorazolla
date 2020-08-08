@@ -22,7 +22,9 @@ Quem é desta época:
 - Placa de vídeo e monitor "Super VGA".
 - Algumas vezes levava dias para baixar um MP3 pela NAPSTER.
 - Deixava para usar internet de madrugada porque ocupava a linha telefônica e era "um pulso" a madrugada toda.
-
+- Os sites mais modernos tinham "FLASH".
+- Já fez alguns sites no "FRONT PAGE" e a manha dos "FRAMES" era usar % para definir o tamanho, pois já tinham monitores 800x600.
+- Já teve que compilar o linux pelo menos uma vez, para que algum dispositivo funcionasse corretamente.
 
 
 <!--
