@@ -6,15 +6,13 @@ Desde então passei por diversas linguagens e muitas noites regadas a código, c
 
 Quem é desta época:
 - Existiam diquetes e eram muito usados.
-- Windows não era sistema operacional.
-- Para entrar no windows tinha que rodar o comando "win", no DOS.
+- Windows não era sistema operacional. Para entrar no windows tinha que rodar o comando "win", no DOS.
 - Já fez um "disquete bomba" com o autoexec.bat, só para pregar uma peça. 😄
 - Conheceu o "WordPerfect", o "Lotus 123" e todas as artimanhas necessárias para colocar negrito em um texto.
 - Sabe que Prince of Persia cabia em um disquete 5 1/4". Aliás, o sistema operacional cabia em um disquete.
 - Alguns computadores tinham o botão "turbo" no gabinete. Era incrível jogar pacman com o turbo ativado! ⚡
 - O ZIP-DRIVE era fantástico, podíamos armazenar 100MB em um único disco!!!!
-- Queria ter uma placa de som Sound Blaster.
-- Sabe o que eram os famosos "kit multimidia".
+- Queria ter uma placa de som Sound Blaster e conheceu os famosos "kit multimidia".
 - Já fez "formatação física" do HD pela BIOS.
 - Os disquetes de 3 1/2", se fizesse um furo no lugar certo aumentavam a capacidade. 
 - Ficava doido para ver qual seria a "CD Expert".
