@@ -5,7 +5,7 @@ Meu nome é Diogo, nascido em abril de 1983, programador desde 12 anos de idade,
 Desde então passei por diversas linguagens e muitas noites regadas a código, café e rockenroll! 
 
 Quem é desta época:
-- Existiam diquetes e eram muito usados.
+- Existiam disquetes e eram muito usados.
 - Windows não era sistema operacional. Para entrar no windows tinha que rodar o comando "win", no DOS.
 - Já fez um "disquete bomba" com o autoexec.bat, só para pregar uma peça. 😄
 - Conheceu o "WordPerfect", o "Lotus 123" e todas as artimanhas necessárias para colocar negrito em um texto.
@@ -23,6 +23,11 @@ Quem é desta época:
 - Os sites mais modernos tinham "FLASH".
 - Já fez alguns sites no "FRONT PAGE" e a manha dos "FRAMES" era usar % para definir o tamanho, pois já tinham monitores 800x600.
 - Já teve que compilar o linux pelo menos uma vez, para que algum dispositivo funcionasse corretamente.
+
+Sempre em busca de novos desafios!
+
+Atualmente busco oportunidades de atuação de forma remota em projetos.
+
 
 
 <!--
