@@ -1,11 +1,14 @@
 ### Olá! 👋
 
-Meu nome é Diogo, nascido em abril de 1983, programador desde 12 anos de idade, quando chegou o primeiro computador em casa (um ótimo 386SX-33 tunado com 4MB de memória RAM e um incrível HD de 80MB) e ao entrar em contato com aquela máquina que rodava o famoso DOS 6, com Windows 3.11, fiquei apaixonado e entrei nesse mundo descobrindo o DBASE e CLIPPER.
+Meu nome é Diogo, nascido em abril de 1983, programador desde 12 anos de idade, quando chegou o primeiro computador em casa (um ótimo 386SX-33 tunado com 4MB de memória RAM e um incrível HD de 80MB) e ao entrar em contato com aquela máquina que rodava o famoso DOS 5, com Windows 3, fiquei apaixonado e entrei nesse mundo descobrindo o DBASE e CLIPPER.
 
 Desde então passei por diversas linguagens e muitas noites regadas a código, café e rockenroll! 
 
-Quem é desta época:
+<!--
+
+Quem é da epoca de 1980:
 - Existiam disquetes e eram muito usados.
+- Brincou com Atari, Nintendo 8 bits, Master System, Mega Drive, Super Nintendo
 - Windows não era sistema operacional. Para entrar no windows tinha que rodar o comando "win", no DOS.
 - Já fez um "disquete bomba" com o autoexec.bat, só para pregar uma peça. 😄
 - Conheceu o "WordPerfect", o "Lotus 123" e todas as artimanhas necessárias para colocar negrito em um texto.
@@ -30,7 +33,9 @@ Atualmente busco oportunidades de atuação de forma remota em projetos.
 
 
 
-<!--
+
+
+
 **dcorazolla/dcorazolla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
