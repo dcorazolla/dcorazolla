@@ -4,6 +4,8 @@ Meu nome é Diogo, nascido em abril de 1983, programador desde 12 anos de idade,
 
 Desde então passei por diversas linguagens e muitas noites regadas a código, café e rockenroll! 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dcorazolla&theme=dark&langs_count=10)
+
 <!--
 
 Quem é da epoca de 1980:
