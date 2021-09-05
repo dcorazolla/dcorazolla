@@ -6,7 +6,7 @@ Desde então passei por diversas linguagens e muitas noites regadas a código, c
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dcorazolla&style=flat-square&color=red&label=VISUALIZACOES+PERFIL" alt="dcorazolla" /> </p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=dcorazolla&theme=dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /></p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcorazolla&layout=compact&theme=dark&langs_count=10&show_icons=true" alt="Languages" /></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcorazolla&layout=compact&theme=dark&langs_count=12&show_icons=true" alt="Languages" /></p>
 
 
 
